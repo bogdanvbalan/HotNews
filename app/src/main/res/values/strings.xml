@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HotNews</string>
+    <string name="no_internet">Check your internet connection.</string>
+    <string name="no_news">There are no news.</string>
+</resources>
